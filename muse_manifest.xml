@@ -1,0 +1,413 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp65.world4you.com" ftp_rootfolder="/" exportTarget="FTP" domain="anita-ruebenbauer.at" resolutions="1x" timestamp="1568644896031">
+  <folder name="css">
+    <file name="site_global.css" crc="4062300789"/>
+    <file name="master_a-musters.css" crc="22351115" ref="datenschutz:impressum:index"/>
+    <file name="nomq_preview_master_a-musters.css" crc="4049828758" ref="datenschutz:impressum:index"/>
+    <file name="datenschutz.css" crc="330934938" ref="datenschutz"/>
+    <file name="nomq_datenschutz.css" crc="156864601" ref="datenschutz"/>
+    <file name="impressum.css" crc="4002549816" ref="impressum"/>
+    <file name="nomq_impressum.css" crc="294381882" ref="impressum"/>
+    <file name="index.css" crc="212267294" ref="index"/>
+    <file name="nomq_index.css" crc="4043981241" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="34de7e_0_0.woff" crc="343863956"/>
+    <file name="34de7e_0_0.eot" crc="398161280"/>
+    <file name="34de7e_0_0.svg" crc="373148257"/>
+    <file name="34de83_0_0.woff" crc="383933862"/>
+    <file name="34de83_0_0.eot" crc="450438821"/>
+    <file name="34de83_0_0.svg" crc="4035740247"/>
+    <file name="34de7e_0_0.woff" crc="343863956"/>
+    <file name="34de7e_0_0.eot" crc="398161280"/>
+    <file name="34de7e_0_0.svg" crc="373148257"/>
+    <file name="34de83_0_0.woff" crc="383933862"/>
+    <file name="34de83_0_0.eot" crc="450438821"/>
+    <file name="34de83_0_0.svg" crc="4035740247"/>
+    <file name="34de7e_0_0.woff" crc="343863956"/>
+    <file name="34de7e_0_0.eot" crc="398161280"/>
+    <file name="34de7e_0_0.svg" crc="373148257"/>
+    <file name="34de83_0_0.woff" crc="383933862"/>
+    <file name="34de83_0_0.eot" crc="450438821"/>
+    <file name="34de83_0_0.svg" crc="4035740247"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:impressum:datenschutz"/>
+    <file name="museutils.js" crc="340535759" ref="index:impressum:datenschutz"/>
+    <file name="whatinput.js" crc="86476730" ref="index:impressum:datenschutz"/>
+    <file name="museconfig.js" crc="310584261" ref="index:impressum:datenschutz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:impressum:datenschutz"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:impressum:datenschutz"/>
+    <file name="require.js" crc="7928878" ref="index:impressum:datenschutz"/>
+  </folder>
+  <folder name="images">
+    <file name="element 1.png" crc="4007183980" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element 4.png" crc="289958655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element 12.png" crc="4014842996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21192453_1520498967989455_962785666510370842_n.jpg" crc="184292699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21231725_1520498974656121_1545263160285686580_n-crop-u407.jpg" crc="4061351753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer-haardesign.jpg" crc="417012854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21369602_1520498961322789_2612411673952072169_n.jpg" crc="42010055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_1-crop-u9180.jpg" crc="4116607933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_2.jpg" crc="4086042354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_3.jpg" crc="3292387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_4.jpg" crc="79223670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar.png" crc="3886234262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_2.jpg" crc="149194821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_2.jpg" crc="3854633146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_1-crop-u2742.jpg" crc="339859954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_1-crop-u2732.jpg" crc="212359270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0212-crop-u7664.jpg" crc="4101610252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0967-crop-u7648.jpg" crc="3990759088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer.jpg" crc="3802665090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_header.png" crc="367806920" seo="true" ref="index:impressum:datenschutz">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+    </file>
+    <file name="great-lengths-logo-intsvg.png" crc="10439123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1573-crop-u2775.jpg" crc="512683296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1568.jpg" crc="3767467546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1570.jpg" crc="3907162015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb.png" crc="3973290647" seo="true" ref="index:impressum:datenschutz">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+    </file>
+    <file name="21231725_1520498974656121_1545263160285686580_n-crop-u4072.jpg" crc="3945389342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_1-crop-u91802.jpg" crc="3817396579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_2392x546.jpg" crc="158441674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_2392x280.jpg" crc="4211151869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_1-crop-u27422.jpg" crc="201179990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_1-crop-u27322.jpg" crc="3937421832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0212-crop-u76642.jpg" crc="529585584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0967-crop-u76482.jpg" crc="66469318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1573-crop-u27752.jpg" crc="3877023473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1568414x317.jpg" crc="412448804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1570210x317.jpg" crc="3828590152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element 1-buttonu6391-fr.png" crc="4000306576" ref="index"/>
+    <file name="21192453_1520498967989455_962785666510370842_n257x172.jpg" crc="428646794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21231725_1520498974656121_1545263160285686580_n-crop-u4073.jpg" crc="461031201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer-haardesign257x172.jpg" crc="4192961288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21369602_1520498961322789_2612411673952072169_n257x172.jpg" crc="289223909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_1-crop-u91803.jpg" crc="36713730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_2257x193.jpg" crc="3862196827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_3257x193.jpg" crc="102186546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_4257x193.jpg" crc="457196094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar330x232.png" crc="3770731096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_2287x400.jpg" crc="41690048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_2-crop-u2722.jpg" crc="3846886285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_1-crop-u27423.jpg" crc="123535917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_1-crop-u27323.jpg" crc="362341621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0212-crop-u76643.jpg" crc="483710973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0967-crop-u76483.jpg" crc="3928481104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer243x291.jpg" crc="520792337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_header341x165.png" crc="3916201456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1573-crop-u27753.jpg" crc="4244649309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1568332x255.jpg" crc="213796285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1570169x255.jpg" crc="4231229499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element 1-buttonu6391-fr2.png" crc="42446854" ref="index"/>
+    <file name="21231725_1520498974656121_1545263160285686580_n-crop-u4074.jpg" crc="461031201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_1-crop-u91804.jpg" crc="36713730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar297x209.png" crc="4063410904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_2258x360.jpg" crc="3975504401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_2-crop-u27222.jpg" crc="18359504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_1-crop-u27424.jpg" crc="3881777067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_1-crop-u27324.jpg" crc="492338018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0212-crop-u76644.jpg" crc="3889785428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0967-crop-u76484.jpg" crc="4169488896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer219x262.jpg" crc="3972012998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1573-crop-u27754.jpg" crc="4022561632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1568299x229.jpg" crc="509304769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1570152x229.jpg" crc="4082112653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element 1-buttonu6391-fr3.png" crc="3830741100" ref="index"/>
+    <file name="ar143x101.png" crc="227267864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar116x82.png" crc="3985137406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21192453_1520498967989455_962785666510370842_n143x96.jpg" crc="4221538342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21231725_1520498974656121_1545263160285686580_n-crop-u4075.jpg" crc="516839202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer-haardesign143x96.jpg" crc="96075979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21369602_1520498961322789_2612411673952072169_n144x96.jpg" crc="352432568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_1-crop-u91805.jpg" crc="3896393797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_2143x108.jpg" crc="4059625034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_3143x108.jpg" crc="4197169397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruebenbauer_studio_4143x108.jpg" crc="3930969218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_2140x195.jpg" crc="68911982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_2147x105.jpg" crc="3921723927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagel_1155x116.jpg" crc="3824634856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuss_1155x220.jpg" crc="3778368859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0212-crop-u76645.jpg" crc="4078458719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0967-crop-u76485.jpg" crc="4007921778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anita-ruebenbauer141x169.jpg" crc="1855194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_header300x145.png" crc="169920534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1573-crop-u27755.jpg" crc="159194768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1568150x115.jpg" crc="4127286122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_157076x115.jpg" crc="4116116156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar111x79.png" crc="4060628886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:impressum:datenschutz"/>
+  </folder>
+  <file name="index.html" crc="4096686766" seo="true" mt="1568644853954" redirect="true"/>
+  <file name="impressum.html" crc="4241390218" seo="true" mt="1529314397947" redirect="true"/>
+  <file name="datenschutz.html" crc="280690295" seo="true" mt="1529314397947" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="Absatzformat" uid="U1713"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Anita Rübenbauer" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U4765" maxwidth="700" minwidth="0" squishy="true"/>
+        <breakpoint uid="U4409" maxwidth="1000" minwidth="701" squishy="true"/>
+        <breakpoint uid="U3613" maxwidth="1200" minwidth="1001" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1500" minwidth="1201" squishy="true"/>
+        <anchor name="start" html_id="start" muse_href="anchor:U82:U880" includeInBPs="U4765,U4409,U3613,U83"/>
+      </page>
+      <masterPage name="A-Musters." master="U62" uid="U72">
+        <breakpoint uid="U5547" maxwidth="700" minwidth="0" squishy="false"/>
+        <breakpoint uid="U5527" maxwidth="900" minwidth="701" squishy="true"/>
+        <breakpoint uid="U3849" maxwidth="1200" minwidth="901" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1500" minwidth="1201" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1700" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Impressum" filename="impressum.html" muse_href="page:U1903" master="U72">
+        <breakpoint uid="U5222" maxwidth="800" minwidth="0" squishy="true"/>
+        <breakpoint uid="U1887" maxwidth="1500" minwidth="801" squishy="true"/>
+      </page>
+      <page name="Datenschutz" filename="datenschutz.html" muse_href="page:U1921" master="U72">
+        <breakpoint uid="U5292" maxwidth="800" minwidth="0" squishy="true"/>
+        <breakpoint uid="U1905" maxwidth="1500" minwidth="801" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
